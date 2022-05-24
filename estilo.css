@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 1em;
+	font-family: Arial,Helvetica, sans-serif;
+	background:	#cccccc;
+}
+
+#cabeçalho {
+	background-color: #f7b600;
+	border: 3px solid red;
+	height: 180px;
+	text-align: center;
+
+}
+
+.lkcabecalho{
+	border: 1px solid green;
+	padding: 20px;
+	margin: 10px;
+	color: white;
+}
+
+
+.titulo {
+	border: 1px solid blue;
+	padding: 60px;
+}
+
+
